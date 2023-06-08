@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "username": "john",
+        "password": "johndoe",
+        "email": "johndoe@gmail.com",
+        "creditcard": "79927398713"
+    },
+    {
+        "id": 2,
+        "username": "jvunrewriu",
+        "password": "cfwuui@gmail.com",
+        "email": "fdebiugrview",
+        "creditcard": "79927398713"
+    },
+    {
+        "id": 3,
+        "username": "test",
+        "password": "yesorno",
+        "email": "test123@gmail.com",
+        "creditcard": "79927398713"
+    },
+    {
+        "id": 4,
+        "username": "johnny",
+        "password": "79927398713",
+        "email": "johnn@gmail.com",
+        "creditcard": "79927398713"
+    },
+    {
+        "id": 5,
+        "username": "jiaqiang",
+        "password": "hoihoihoi",
+        "email": "1035208@hr.nl",
+        "creditcard": ""
+    },
+    {
+        "id": 6,
+        "username": "izzet",
+        "password": "test123",
+        "email": "0994510@hr.nl",
+        "creditcard": ""
+    },
+    {
+        "id": 7,
+        "username": "Admin",
+        "password": "unlimitedpower",
+        "email": "0994510@hr.nl",
+        "creditcard": "0000000000000000"
+    },
+    {
+        "id": 8,
+        "username": "panda123",
+        "password": "toetie123",
+        "email": "0988083@hr.nl",
+        "creditcard": "5184338203572616"
+    },
+    {
+        "id": 9,
+        "username": "timo",
+        "password": "timo",
+        "email": "1024454@hr.nl",
+        "creditcard": "5184338203572616"
+    },
+    {
+        "id": 10,
+        "username": "Ruud",
+        "password": "1234hvhvp",
+        "email": "ruudvandenhooff@pm.me",
+        "creditcard": "0000000000000000"
+    },
+    {
+        "id": 11,
+        "username": "Kok",
+        "password": "iamthechef",
+        "email": "0994510@hr.nl",
+        "creditcard": "0000000000000000"
+    },
+    {
+        "id": 12,
+        "username": "mike",
+        "password": "mike123",
+        "email": "mikebelike1213@gmail.com",
+        "creditcard": "000000000"
+    },
+    {
+        "id": 13,
+        "username": "norbi",
+        "password": "herkansing",
+        "email": "1030105@hr.nl",
+        "creditcard": "0000000000000000"
+    }
+]

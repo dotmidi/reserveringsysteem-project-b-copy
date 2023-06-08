@@ -1,0 +1,80 @@
+[
+    {
+        "reservationId": 3,
+        "people": 1,
+        "type": "Ontbijt",
+        "food": "Lunch",
+        "notes": "Diner",
+        "timeOfReservation": "17:8:01 25-05-22",
+        "reviewed": true,
+        "user_id": 0,
+        "datum": null,
+        "tableLocationX": 0,
+        "tableLocationY": 0
+    },
+    {
+        "reservationId": 2,
+        "people": 1,
+        "type": "Diner",
+        "food": "Krokante krabburger",
+        "notes": "ja",
+        "timeOfReservation": "18:52:12 08-06-22",
+        "reviewed": false,
+        "user_id": 9,
+        "datum": null,
+        "tableLocationX": 1,
+        "tableLocationY": 2
+    },
+    {
+        "reservationId": 3,
+        "people": 1,
+        "type": "Diner",
+        "food": "Krokante krabburger",
+        "notes": "ne",
+        "timeOfReservation": "18:59:17 08-06-22",
+        "reviewed": false,
+        "user_id": 9,
+        "datum": null,
+        "tableLocationX": 0,
+        "tableLocationY": 3
+    },
+    {
+        "reservationId": 4,
+        "people": 1,
+        "type": "Lunch",
+        "food": "Friet",
+        "notes": "fdas",
+        "timeOfReservation": "19:0:21 08-06-22",
+        "reviewed": false,
+        "user_id": 9,
+        "datum": null,
+        "tableLocationX": 4,
+        "tableLocationY": 2
+    },
+    {
+        "reservationId": 5,
+        "people": 1,
+        "type": "Ontbijt",
+        "food": "Eenpersonig Ontbijt",
+        "notes": "fdsa",
+        "timeOfReservation": "19:0:21 08-06-22",
+        "reviewed": false,
+        "user_id": 9,
+        "datum": null,
+        "tableLocationX": 0,
+        "tableLocationY": 5
+    },
+    {
+        "reservationId": 6,
+        "people": 3,
+        "type": "Lunch",
+        "food": "Hamburger, Friet, Cola",
+        "notes": "",
+        "timeOfReservation": "14:11:56 04-07-22",
+        "reviewed": false,
+        "user_id": 13,
+        "datum": "07/07/2022",
+        "tableLocationX": 2,
+        "tableLocationY": 0
+    }
+]

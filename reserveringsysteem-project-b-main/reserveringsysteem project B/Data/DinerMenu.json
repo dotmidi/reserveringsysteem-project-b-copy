@@ -1,0 +1,78 @@
+[
+  {
+    "categorie": "eten",
+    "naam": "Krokante krabburger",
+    "prijs": 1.25,
+    "allergenen": "Ei, Soja, Melk, Gluten, Mosterd",
+    "subnaam": "Met zee kaas",
+    "subprijs": 1.50,
+    "subnaam1": "Voordeelmenu",
+    "subprijs1": 3.50
+  },
+
+  {
+    "categorie": "eten",
+    "naam": "Dubbele krokante krabburger",
+    "prijs": 2.00,
+    "allergenen": "Ei, Soja, Melk, Gluten, Mosterd",
+    "subnaam": "Met zee kaas",
+    "subprijs": 2.25,
+    "subnaam1": "Voordeelmenu",
+    "subprijs1": 3.75
+  },
+
+  {
+    "categorie": "eten",
+    "naam": "Driedubbele krokante krabburger",
+    "prijs": 3.00,
+    "allergenen": "Ei, Soja, Melk, Gluten, Mosterd",
+    "subnaam": "Met zee kaas",
+    "subprijs": 3.25,
+    "subnaam1": "Voordeelmenu",
+    "subprijs1": 4.00
+  },
+
+  {
+    "categorie": "eten",
+    "naam": "Koraal bites",
+    "allergenen": "Ei, Gluten",
+    "subnaam": "Klein",
+    "subprijs": 1.00,
+    "subnaam1": "Medium",
+    "subprijs1": 1.25,
+    "subnaam2": "Groot",
+    "subprijs2": 1.50
+  },
+
+  {
+    "categorie": "eten",
+    "naam": "Zeewier ringen",
+    "prijs": 1.50,
+    "allergenen": "Ei, Gluten",
+    "subnaam": "Zoutige saus",
+    "subprijs": 2.00
+  },
+
+  {
+    "categorie": "drinken",
+    "naam": "Water",
+    "prijs": 1
+  },
+
+  {
+    "categorie": "drinken",
+    "naam": "Zeewier frisdrank",
+    "subnaam": "Klein",
+    "subprijs": 1.00,
+    "subnaam1": "Medium",
+    "subprijs1": 1.25,
+    "subnaam2": "Groot",
+    "subprijs2": 1.50
+  },
+
+  {
+    "categorie": "drinken",
+    "naam": "Koraal shake",
+    "prijs": 3.00
+  }
+]

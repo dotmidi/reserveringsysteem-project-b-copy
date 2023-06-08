@@ -1,0 +1,23 @@
+[
+  {
+    "categorie": "Eten",
+    "naam": "Hamburger",
+    "prijs": 5,
+    "allergenen": "Gluten, Melk, Soja"
+  },
+  {
+    "categorie": "Eten",
+    "naam": "Friet",
+    "prijs": 2
+  },
+  {
+    "categorie": "Drinken",
+    "naam": "Water",
+    "prijs": 1
+  },
+  {
+    "categorie": "Drinken",
+    "naam": "Cola",
+    "prijs": 2
+  }
+]

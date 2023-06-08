@@ -1,0 +1,41 @@
+[
+  {
+    "categorie": "eten",
+    "naam": "Eenpersonig Ontbijt",
+    "prijs": 5,
+    "allergenen": "Gluten, Ei, Melk"
+  },
+  {
+    "categorie": "eten",
+    "naam": "Glutenvrij Eenpersonig Ontbijt",
+    "prijs": 5,
+    "allergenen": "Ei, Melk"
+  },
+  {
+    "categorie": "eten",
+    "naam": "Tweepersonig Ontbijt",
+    "prijs": 10,
+    "allergenen": "Gluten, Ei, Melk"
+  },
+  {
+    "categorie": "eten",
+    "naam": "Glutenvrij Tweepersonig Ontbijt",
+    "prijs": 10,
+    "allergenen": "Ei, Melk"
+  },
+  {
+    "categorie": "drinken",
+    "naam": "Water",
+    "prijs": 1
+  },
+  {
+    "categorie": "drinken",
+    "naam": "Jus D'orange",
+    "prijs": 2
+  },
+  {
+    "categorie": "drinken",
+    "naam": "Koffie",
+    "prijs": 2
+  }
+]
